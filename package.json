@@ -1,5 +1,5 @@
 {
-    "name": "WhatsNapoli",
+    "name": "your-project-name",
     "version": "1.0.0",
     "description": "Your project description",
     "main": "server.js",
@@ -8,6 +8,6 @@
     },
     "dependencies": {
         "socket.io": "^4.0.1"
-        
+       
     }
 }
