@@ -8,6 +8,6 @@
     },
     "dependencies": {
         "socket.io": "^4.0.1"
-        // ... other dependencies
+        
     }
 }
